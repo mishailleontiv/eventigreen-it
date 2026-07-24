@@ -11,4 +11,4 @@ Allow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://donbet.co.it/sitemap.xml
+Sitemap: https://eventigreen.it/sitemap.xml
